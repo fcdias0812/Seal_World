@@ -143,3 +143,9 @@ a{
 .gallery__img-wrapper:nth-child(even)::after{
     left: 1rem;
 }
+
+.footer{
+    margin-top: 4rem;
+    padding: 2rem;
+    text-align: center;
+}
